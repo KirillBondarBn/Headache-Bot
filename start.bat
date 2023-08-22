@@ -2,7 +2,7 @@
 call %~dp0venv\Scripts\activate
 
 
-set TOKEN=5181680651:AAFkjXp4r6uVelmDBpVh_wTXNeFAWWtSZbo
+set TOKEN=something
 python main.py
 
 pause
